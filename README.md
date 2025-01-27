@@ -35,13 +35,3 @@ To play the game, follow these steps:
    - For Windows:
      You may need to use an IDE like Turbo C or use MinGW to compile.
 
-
-## Contributions:
-Contributions are welcome! If you have ideas for improving the quiz, adding new subjects or enhancing the game flow, feel free to fork the repository and submit a pull request.
-
-## License:
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Enjoy the quiz and improve your tech knowledge!
